@@ -1,2 +1,2 @@
 # Demeter's Tome
-A Permaculture databse
+A Permaculture database
